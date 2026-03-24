@@ -45,21 +45,21 @@ The project follows a modular directory structure to keep the logic, styling, an
 ## Screenshots & Demo
 
 ### 1. Main Interface
-![Home Screen](image/visualizer_home.png)
+![Home Screen](images/visualizer_home.png)
 
 ### 2. Sorting in Progress
-![Sorting Action](image/sorting_action.png)
+![Sorting Action](images/sorting_action.png)
 
 ### 3. Final Sorted Result
-![Sorted Result](image/sorted_result.png)
+![Sorted Result](images/sorted_result.png)
 
 ### 4. Project Video
-[Click here to view the Output Video](image/Output.mp4)
+[Click here to view the Output Video](images/Output.mp4)
 ## Project Demo
 Watch the Algorithm Visualizer in action:
 
-[Click here to view the Output Video](image/Output.mp4)
-![Home Screen](image/visualizer_home.png)
+[Click here to view the Output Video](images/Output.mp4)
+![Home Screen](images/visualizer_home.png)
 
 ---
 *Developed as part of academic project work at Dept of CS, NG.*
