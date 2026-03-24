@@ -17,10 +17,23 @@ Algorithms and data structures are essential parts of computer science. Standard
 * **Documentation:** Comprehensive project report included in the repository.
 
 ## Project Structure
-* `index.html` - The main entry point of the application.
-* `styles/` - Contains CSS files for styling the visualizer.
-* `js/` - Contains JavaScript logic for algorithm visualizations.
-* `Algorithm Visualizer document.pdf` - Full project documentation and references.
+## Project Structure
+
+The project follows a modular directory structure to keep the logic, styling, and assets organized:
+
+* **`index.html`** - The primary entry point of the visualizer.
+* **`js/`** - Contains all JavaScript logic and frameworks:
+    * **`bootstrap/`** - Includes Bootstrap CSS and JS framework files for a responsive UI.
+    * **`utility/`** - Contains core helper scripts:
+        * `index.js` - Main entry for utility functions.
+        * **`sortingOptions/`** - Individual sorting logic files (Bubble, Insertion, Merge, Quick, Selection).
+    * `sorting.js` - The main controller script for the visualization logic.
+* **`styles/`** - Contains custom styling:
+    * **`css/`** - Additional CSS components and libraries.
+    * `style.css` - Main stylesheet for the project layout and animations.
+* **`image/`** - Stores project screenshots and the output demonstration video.
+* **`Algorithm Visualizer document.pdf`** - Comprehensive project documentation and report.
+*
 
 ## How to Run
 1.  Download or clone this repository to your local machine.
